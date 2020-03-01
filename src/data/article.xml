@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--<catalog>
+  <cd>
+    <title>Red</title>
+    <artist>The Communards</artist>
+    <country>UK</country>
+    <company>London</company>
+    <price>7.80</price>
+    <year>1987</year>
+  </cd>
+  <cd>
+    <title>Unchain my heart</title>
+    <artist>Joe Cocker</artist>
+    <country>USA</country>
+    <company>EMI</company>
+    <price>8.20</price>
+    <year>1987</year>
+  </cd>
+</catalog>-->
+
+<!--<?xml version="1.0" encoding="UTF-8"?>
+<instance-data-set xmlns=
+    "urn:ietf:params:xml:ns:yang:ietf-yang-instance-data">
+  <name>acme-router-modules</name> 
+  <revision>2108-01-25</revision>
+  <description>Defines the minimal set of modules that any acme-router
+       will contain. These modules will always be present.</description> 
+  <contact>info@acme.com</contact>
+  <data>
+    <yang-library xmlns="urn:ietf:params:xml:ns:yang:ietf-yang-library">
+      <module-set>
+        <name>basic</name>
+        <module>
+          <name>ietf-system</>
+          <revision>2014-08-06</revision>
+           description "A later revision may be used."; 
+          <namespace>urn:ietf:params:xml:ns:yang:ietf-system</namespace>
+          <feature>authentication</feature>
+          <feature>radius-authentication</feature>
+        </module>
+      </module-set>
+    </yang-library>
+  </data>  
+</instance-data-set>
+-->
+
+<courses>
+    <course title="Intro DB">
+        <students>
+            <student id="123">
+                <first>Alice</first>
+                <last>Wonderland</last>
+                <username>alice</username>
+            </student>
+            <student id="234">
+                <first>Bob</first>
+                <last>Marley</last>
+                <username>bob</username>
+            </student>
+        </students>
+    </course>
+</courses>
+
+
